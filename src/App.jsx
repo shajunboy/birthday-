@@ -17,7 +17,7 @@ export default function App() {
   const [confetti, setConfetti] = useState([]);
   
   // User photo & Video background paths
-  const userPhoto = './mahe.jpg'; 
+  const userPhoto = './mahe.jpeg'; 
   const backgroundVideo = './kandy.mp4'; 
 
   const audioCtxRef = useRef(null);
