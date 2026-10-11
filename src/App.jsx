@@ -156,7 +156,7 @@ export default function App() {
           </div>
 
           {/* Main Glassmorphism Card */}
-          <div className="relative z-10 max-w-lg w-full text-center p-8 rounded-3xl bg-slate-900/60 backdrop-blur-md border border-white/10 shadow-2xl flex flex-col items-center animate-float">
+          <div className="relative z-10 max-w-lg w-full text-center p-8 rounded-3xl   border border-white/10 shadow-2xl flex flex-col items-center animate-float">
             
             {/* User Profile Frame (mahe.jpg) */}
             <div className="relative mb-6 group">
@@ -183,7 +183,7 @@ export default function App() {
             </h1>
 
             <p className="text-slate-300 text-sm sm:text-base mb-8 max-w-md">
-              A special celebration awaits you. Click the button below to unlock your magical birthday surprise!
+              A special celebration awaits you. Click the button below to unlock your magical surprise!
             </p>
 
             {/* Glowing Action Button */}
@@ -272,10 +272,10 @@ export default function App() {
             {/* Animated Birthday Typography */}
             <div className="mb-8">
               <h1 className="text-5xl sm:text-7xl font-black tracking-wider uppercase text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-400 to-indigo-400 animate-glow-text mb-2">
-                Happy Birthday
+                Happy Birthday To You! 🎉
               </h1>
               <h2 className="text-3xl sm:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-pink-300 to-cyan-300">
-                To You! 🎉
+                Podi Maheshii...
               </h2>
             </div>
 
@@ -358,7 +358,7 @@ export default function App() {
 
           {/* Footer Note */}
           <div className="relative z-10 text-center text-xs text-slate-500 mt-6">
-            Made with ❤️ for a Very Special Birthday Celebration
+            Made with ❤️ by Sharuk Ayiya for a Very Special Birthday Celebration
           </div>
 
         </div>
